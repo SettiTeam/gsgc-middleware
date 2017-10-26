@@ -1,0 +1,22 @@
+{
+  "name": "gsgc-middleware",
+  "version": "0.0.1",
+  "description": "Shared express middleware functions for GSGC APIs",
+  "main": "lib/gsgc-middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giantslidegamecompany/gsgc-middleware.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giantslidegamecompany/gsgc-middleware/issues"
+  },
+  "homepage": "https://github.com/giantslidegamecompany/gsgc-middleware#readme",
+  "engines": {
+    "node": ">= 6.9.0"
+  }
+}
